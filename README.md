@@ -18,6 +18,9 @@ The goal of this project is to understand how ER usage impacts healthcare costs 
 ## Key Insight
 Patients with higher ER visit frequency tend to have higher healthcare costs, with a small group of high-utilization patients contributing disproportionately to total spending.
 
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
 ## Files Included
 - healthcare_dashboard.twbx (Tableau dashboard)
 - healthcare_data_cleaned.xlsx (cleaned dataset)
